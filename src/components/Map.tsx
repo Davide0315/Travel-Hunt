@@ -123,7 +123,7 @@ const Map: React.FC<MapProps> = ({
         ref={mapRef}
         className="w-full h-full bg-cover bg-center transition-all duration-300"
         style={{ 
-          backgroundImage: `url('${getMapBackground()}')`,
+          backgroundImage: `url('url('https://images.unsplash.com/photo-1632765854612-9b02b6ec2b15?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80')`,
           backgroundSize: '110%'
         }}
       >
