@@ -126,7 +126,7 @@ const Destinations = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                 <img 
-                  src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                  src="https://images.squarespace-cdn.com/content/v1/5e484ab628c78d6f7e602d73/7d220c19-6e99-4b1c-931e-9b51c2e90e66/food-tours-in-bologna.jpg" 
                   alt="Food tour"
                   className="w-full h-48 object-cover"
                 />
@@ -138,7 +138,7 @@ const Destinations = () => {
               
               <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                 <img 
-                  src="https://images.unsplash.com/photo-1589333382094-2db8be4aca0d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                  src="https://pavaedu.com/wp-content/uploads/2018/11/vatikan-1024x561.jpg" 
                   alt="Historical sites"
                   className="w-full h-48 object-cover"
                 />
