@@ -150,7 +150,7 @@ const Destinations = () => {
               
               <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                 <img 
-                  src="https://images.unsplash.com/photo-1555862124-94e8cf6428f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                  src="https://www.explore.com/img/gallery/the-hidden-italian-beaches-that-offer-the-perfect-secluded-coastal-escape/l-intro-1673554073.jpg" 
                   alt="Hidden beaches"
                   className="w-full h-48 object-cover"
                 />
