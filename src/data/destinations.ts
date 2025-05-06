@@ -18,7 +18,7 @@ export const destinations: Destination[] = [
     region: "Campania",
     country: "Italia",
     description: "Scopri la magnifica Costiera Amalfitana, patrimonio UNESCO, con le sue scogliere a picco sul mare, i pittoreschi villaggi colorati e la deliziosa cucina locale.",
-    imageUrl: "https://images.unsplash.com/photo-1612698093158-e07ac200d44e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://www.dltviaggi.it/immagine/28007/w_854-h_569/costiera%20amalfitana%202.jpg",
     missionsCount: 12,
     rating: 4.9,
     featured: true
@@ -29,7 +29,7 @@ export const destinations: Destination[] = [
     region: "Sicilia",
     country: "Italia",
     description: "Esplora Taormina, la perla della Sicilia con il suo anfiteatro greco, le viste mozzafiato sull'Etna e le splendide spiagge.",
-    imageUrl: "https://images.unsplash.com/photo-1523365280197-dbf36cd2252a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://www.sicilyactive.com/sites/default/files/field/image/i%20luoghi%20da%20visitare%20vicino%20Taormina.jpg",
     missionsCount: 9,
     rating: 4.7,
     featured: true
@@ -40,7 +40,7 @@ export const destinations: Destination[] = [
     region: "Campania",
     country: "Italia",
     description: "Visita l'isola di Capri, famosa per i faraglioni, la Grotta Azzurra e le boutique di lusso.",
-    imageUrl: "https://images.unsplash.com/photo-1559564221-c695e1882850?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://wips.plug.it/cips/initalia.virgilio.it/cms/2025/05/nave-fa-inchino-ai-faraglioni-capri.jpg",
     missionsCount: 8,
     rating: 4.8
   },
