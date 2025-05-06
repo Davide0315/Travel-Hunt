@@ -21,6 +21,7 @@ export const destinations: Destination[] = [
     imageUrl: "https://www.dltviaggi.it/immagine/28007/w_854-h_569/costiera%20amalfitana%202.jpg",
     missionsCount: 12,
     rating: 4.9
+    featured:true
   },
   {
     id: "taormina",
@@ -31,6 +32,7 @@ export const destinations: Destination[] = [
     imageUrl: "https://www.sicilyactive.com/sites/default/files/field/image/i%20luoghi%20da%20visitare%20vicino%20Taormina.jpg",
     missionsCount: 9,
     rating: 4.7
+    featured:true
   },
   {
     id: "capri",
