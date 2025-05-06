@@ -20,8 +20,7 @@ export const destinations: Destination[] = [
     description: "Scopri la magnifica Costiera Amalfitana, patrimonio UNESCO, con le sue scogliere a picco sul mare, i pittoreschi villaggi colorati e la deliziosa cucina locale.",
     imageUrl: "https://www.dltviaggi.it/immagine/28007/w_854-h_569/costiera%20amalfitana%202.jpg",
     missionsCount: 12,
-    rating: 4.9,
-    featured: False
+    rating: 4.9
   },
   {
     id: "taormina",
@@ -31,8 +30,7 @@ export const destinations: Destination[] = [
     description: "Esplora Taormina, la perla della Sicilia con il suo anfiteatro greco, le viste mozzafiato sull'Etna e le splendide spiagge.",
     imageUrl: "https://www.sicilyactive.com/sites/default/files/field/image/i%20luoghi%20da%20visitare%20vicino%20Taormina.jpg",
     missionsCount: 9,
-    rating: 4.7,
-    featured: False
+    rating: 4.7
   },
   {
     id: "capri",
