@@ -80,7 +80,7 @@ const MissionCard: React.FC<MissionCardProps> = ({
   if (variant === 'featured') {
     return (
       <Link to={`/mission/${mission.id}`} className="block">
-        <div className="mission-card h-full bg-gradient-to-br from-travelblue/5 to-travelblue/20 border border-travelblue/20">
+        <div className="mission-card h-full w-full max-w-full bg-gradient-to-br from-travelblue/5 to-travelblue/20 border border-travelblue/20">
           <div className="relative h-48 overflow-hidden">
             <img 
               src={mission.imageUrl} 
