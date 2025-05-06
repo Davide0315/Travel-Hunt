@@ -54,7 +54,7 @@ export const missions: Mission[] = [
     title: "Degustazione di Limoncello Artigianale",
     description: "Visita un'autentica fabbrica di limoncello ad Amalfi e assaggia il famoso liquore al limone della Costiera.",
     points: 100,
-    imageUrl: "https://images.unsplash.com/photo-1528879342222-323abcfcd15b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cucchiaio.it%2Fricetta%2Flimoncello%2F&psig=AOvVaw3kz7VgibSB2BOJL2MXYX_G&ust=1746648147481000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjyosXRj40DFQAAAAAdAAAAABAE",
     timeRequired: "1 ora",
     fatigue: 1,
     averageCost: "€5-15",
